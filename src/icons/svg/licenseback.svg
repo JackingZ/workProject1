@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 145 94.387">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e4e4e4;
+        stroke: #c3c3c3;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #c5c5c5;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="行驶证背面" transform="translate(-1006 -1121)">
+    <g id="矩形_69" data-name="矩形 69" class="cls-1" transform="translate(1006 1121)">
+      <rect class="cls-3" width="145" height="94.387" rx="4"/>
+      <rect class="cls-4" x="1" y="1" width="143" height="92.387" rx="3"/>
+    </g>
+    <rect id="矩形_70" data-name="矩形 70" class="cls-2" width="43.377" height="5.472" transform="translate(1018.311 1194.868)"/>
+    <rect id="矩形_71" data-name="矩形 71" class="cls-2" width="43.377" height="5.472" transform="translate(1018.311 1182.868)"/>
+    <rect id="矩形_75" data-name="矩形 75" class="cls-2" width="1.489" height="17.472" transform="translate(1066.311 1182.868)"/>
+    <rect id="矩形_79" data-name="矩形 79" class="cls-2" width="1.489" height="17.472" transform="translate(1084.685 1182.868)"/>
+    <rect id="矩形_84" data-name="矩形 84" class="cls-2" width="1.489" height="17.472" transform="translate(1110.625 1182.868)"/>
+    <rect id="矩形_76" data-name="矩形 76" class="cls-2" width="4.731" height="17.472" transform="translate(1070.635 1182.868)"/>
+    <rect id="矩形_80" data-name="矩形 80" class="cls-2" width="4.731" height="17.472" transform="translate(1089.009 1182.868)"/>
+    <rect id="矩形_87" data-name="矩形 87" class="cls-2" width="4.731" height="17.472" transform="translate(1121.434 1182.868)"/>
+    <rect id="矩形_85" data-name="矩形 85" class="cls-2" width="4.731" height="17.472" transform="translate(1114.949 1182.868)"/>
+    <rect id="矩形_77" data-name="矩形 77" class="cls-2" width="2.57" height="17.472" transform="translate(1077.12 1182.868)"/>
+    <rect id="矩形_86" data-name="矩形 86" class="cls-2" width="2.57" height="17.472" transform="translate(1103.06 1182.868)"/>
+    <rect id="矩形_90" data-name="矩形 90" class="cls-2" width="2.57" height="17.472" transform="translate(1135.484 1182.868)"/>
+    <rect id="矩形_81" data-name="矩形 81" class="cls-2" width="2.57" height="17.472" transform="translate(1095.494 1182.868)"/>
+    <rect id="矩形_88" data-name="矩形 88" class="cls-2" width="2.57" height="17.472" transform="translate(1127.919 1182.868)"/>
+    <rect id="矩形_78" data-name="矩形 78" class="cls-2" width="1.489" height="17.472" transform="translate(1082.524 1182.868)"/>
+    <rect id="矩形_83" data-name="矩形 83" class="cls-2" width="1.489" height="17.472" transform="translate(1108.464 1182.868)"/>
+    <rect id="矩形_82" data-name="矩形 82" class="cls-2" width="1.489" height="17.472" transform="translate(1100.898 1182.868)"/>
+    <rect id="矩形_89" data-name="矩形 89" class="cls-2" width="1.489" height="17.472" transform="translate(1133.323 1182.868)"/>
+    <rect id="矩形_72" data-name="矩形 72" class="cls-2" width="120.292" height="17.783" transform="translate(1018.311 1153.141)"/>
+    <rect id="矩形_73" data-name="矩形 73" class="cls-2" width="120.292" height="5.472" transform="translate(1018.311 1141.255)"/>
+  </g>
+</svg>

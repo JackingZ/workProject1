@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 145 94.387">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e4e4e4;
+        stroke: #c3c3c3;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #c5c5c5;
+      }
+
+      .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #c5c5c5;
+        stroke-width: 3px;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="行驶证_正面" data-name="行驶证 正面" transform="translate(-745 -1121)">
+    <g id="组_64" data-name="组 64" transform="translate(-707 -161)">
+      <g id="矩形_57" data-name="矩形 57" class="cls-1" transform="translate(1452 1282)">
+        <rect class="cls-4" width="145" height="94.387" rx="4"/>
+        <rect class="cls-5" x="1" y="1" width="143" height="92.387" rx="3"/>
+      </g>
+      <rect id="矩形_58" data-name="矩形 58" class="cls-2" width="81.377" height="5.472" transform="translate(1503.311 1355.868)"/>
+      <rect id="矩形_59" data-name="矩形 59" class="cls-2" width="81.292" height="17.783" transform="translate(1503.311 1327.141)"/>
+      <rect id="矩形_60" data-name="矩形 60" class="cls-2" width="120.292" height="5.472" transform="translate(1464.311 1316.198)"/>
+      <rect id="矩形_61" data-name="矩形 61" class="cls-2" width="120.292" height="5.472" transform="translate(1464.311 1305.255)"/>
+      <g id="矩形_74" data-name="矩形 74" class="cls-3" transform="translate(1464 1327)">
+        <rect class="cls-4" width="36" height="34"/>
+        <rect class="cls-5" x="1.5" y="1.5" width="33" height="31"/>
+      </g>
+    </g>
+  </g>
+</svg>
